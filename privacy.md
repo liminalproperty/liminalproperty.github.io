@@ -117,8 +117,8 @@ If you want to complain about how Liminal is processing your personal data,
 please contact us in the first instance as above.
 
 If you are unhappy or want to escalate your complaint, you can contact the
-Information Commissioner's Office, either by phone on [0303 123 1113](tel:+44
-303 123 1113), through [the Information Commissioner's Office
+Information Commissioner's Office, either by phone on [0303 123
+1113](tel:+443031231113), through [the Information Commissioner's Office
 website](https://www.ico.org.uk), or by post at:
 
 > Information Commissioner's Office
