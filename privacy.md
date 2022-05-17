@@ -121,11 +121,11 @@ Information Commissioner's Office, either by phone on [0303 123
 1113](tel:+443031231113), through [the Information Commissioner's Office
 website](https://www.ico.org.uk), or by post at:
 
-> Information Commissioner's Office
-> Wycliffe House
-> Water Lane
-> Wilmslow
-> Cheshire
+> Information Commissioner's Office<br/>
+> Wycliffe House<br/>
+> Water Lane<br/>
+> Wilmslow<br/>
+> Cheshire<br/>
 > SK9 5AF
 
 Liminal is registered with the Information Commissioner's Office; if you need
