@@ -71,6 +71,12 @@ your data.  These may be:
     relationship, such as because you are the person we are dealing with at
     your employer.  This will be on the basis of our legitimate interest.
 
+-   If we have a business relationship with your or your employer, we may need
+    to keep records in anticipation of future legal or contractual needs, such
+    as to demonstrate compliance with a leasehold agreement or to show we have
+    had complied with gas safety law.  This will be on the basis of our legal
+    obligations or our legitimate interests.
+
 In particular, we do not, and have no interest in, selling your data to third
 parties or using it for any direct marketing purposes.
 
