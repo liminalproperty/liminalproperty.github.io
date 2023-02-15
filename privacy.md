@@ -104,8 +104,8 @@ Under UK data protection laws, your rights include:
 -   Portability: in certain circumstances, you can ask us to pass your data to
     you or to another organisation.
 
-If you wish to exercise your rights, you can contact us in writing at our
-registered address, or using any normal means you have of communicating with
+If you wish to exercise your rights, you can contact us
+using any normal means you have of communicating with
 us.  Liminal Property is a very small business, but we take our legal
 and moral data protection obligations seriously; we will both acknowledge
 receipt of any request, and provide a full response, as soon as we are
