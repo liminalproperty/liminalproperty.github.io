@@ -1,6 +1,6 @@
 ## Privacy notice
 
-As a business, Liminal Property Limited ("Liminal", we, us, &c.) has both moral
+As a business, Adam Dinwoodie, trading as Liminal Property ("Liminal", we, us, &c.) has both moral
 and legal obligations relating to how it processes personal data.  This
 document aims to give you information about how and why Liminal processes your
 data, and what rights you have with respect to that data.
@@ -106,7 +106,7 @@ Under UK data protection laws, your rights include:
 
 If you wish to exercise your rights, you can contact us in writing at our
 registered address, or using any normal means you have of communicating with
-us.  Liminal Property Limited is a very small business, but we take our legal
+us.  Liminal Property is a very small business, but we take our legal
 and moral data protection obligations seriously; we will both acknowledge
 receipt of any request, and provide a full response, as soon as we are
 reasonably able.
@@ -128,5 +128,5 @@ website](https://www.ico.org.uk), or by post at:
 > Cheshire<br/>
 > SK9 5AF
 
-Liminal is registered with the Information Commissioner's Office; if you need
-it, our registration number is ZB323139.
+<!--Liminal is registered with the Information Commissioner's Office; if you need
+it, our registration number is ZB323139.-->
