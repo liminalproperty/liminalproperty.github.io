@@ -89,6 +89,20 @@ your data.  These may be:
 In particular, I do not, and have no interest in, selling your data to third
 parties or using it for any direct marketing purposes.
 
+### Special category data
+
+If you are a tenant or potential tenant, I may store and process "special
+category data", primarily data about your health.  This is because, as a
+responsible landlord, I need to account for your needs – including needs
+you have because of your health or disabilities – in ensuring a property
+is fit for use, and in making reasonable adaptions to ensure it is fit for
+use.
+
+I will process this data on the basis of your explicit consent.  In limited
+circumstances, for example if I need to ask a contractor to visit the
+property for the purposes of emergency repairs, I will also process and
+potentially pass on this data on the basis of vital interests.
+
 ### Data retention
 
 As a small business processing limited data, I do not have a detailed
@@ -115,7 +129,7 @@ Under UK data protection laws, your rights include:
 
 If you wish to exercise your rights, you can contact me
 using any normal means you have of communicating with
-us.  Mine is a very small business, but I take our legal
+me.  Mine is a very small business, but I take our legal
 and moral data protection obligations seriously; I will both acknowledge
 receipt of any request, and provide a full response, as soon as I am
 reasonably able.
