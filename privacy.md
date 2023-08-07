@@ -58,10 +58,12 @@ your data.  These may be:
     on the basis of our contract or potential contract; for some parts it will
     be to comply with my legal obligations.
 
--   If you are a tenant, I may pass your data onto third parties, for
-    example so a contractor can attend to perform maintenance work, or to
-    inform utility companies and local authorities of changes in
-    responsibility for the property.  Depending
+-   If you are a tenant, I will pass your data onto third parties who provide
+    professional services for me in relation to my business as a landlord, for
+    example so a contractor can attend to perform maintenance work or an
+    accountant to aid with keeping financial records.  I will also pass your
+    data onto third parties who provide services to you, including utility
+    companies and local authorities.  Depending
     on the circumstances, the basis for this will be either your consent, my
     legitimate interests, or my legal obligations.
 
