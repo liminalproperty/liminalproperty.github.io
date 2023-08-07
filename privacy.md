@@ -151,5 +151,5 @@ website](https://www.ico.org.uk), or by post at:
 > Cheshire  
 > SK9 5AF
 
-I am registered with the Information Commissioner's Office; if you need
-it, my registration number is **_TBA_**.
+I am registered with the Information Commissioner's Office. If you need
+it, my registration number is ZB577955.
