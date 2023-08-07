@@ -1,7 +1,7 @@
 ## Privacy notice
 
-As a business, Adam Dinwoodie has both moral
-and legal obligations relating to how it processes personal data.  This
+As a business, I both moral
+and legal obligations relating to how I process personal data.  This
 document aims to give you information about how and why I process your
 data, and what rights you have with respect to that data.
 
