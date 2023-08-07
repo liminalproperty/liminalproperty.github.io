@@ -1,6 +1,6 @@
 ## Privacy notice
 
-As a business, I both moral
+As a business, I have both moral
 and legal obligations relating to how I process personal data.  This
 document aims to give you information about how and why I process your
 data, and what rights you have with respect to that data.
