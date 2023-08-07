@@ -79,9 +79,10 @@ your data.  These may be:
     obligations or my legitimate interests.
 
 -   I will share your data with third parties who provide services to me, for
-    example with banks and accountants to who process my financial data, or
+    example with banks and accountants to who process my financial data,
     with service providers who provide storage for my address books or email
-    data.  This will generally be on the basis of my legitimate interests, to
+    data, or with contractors who perform work at the property.  This will
+    generally be on the basis of my legitimate interests, to
     comply with my legal obligations, or on the basis of our contract or
     potential contract.
 
