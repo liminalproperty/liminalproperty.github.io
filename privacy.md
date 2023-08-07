@@ -129,7 +129,7 @@ Under UK data protection laws, your rights include:
 
 If you wish to exercise your rights, you can contact me
 using any normal means you have of communicating with
-me.  Mine is a very small business, but I take our legal
+me.  Mine is a very small business, but I take my legal
 and moral data protection obligations seriously; I will both acknowledge
 receipt of any request, and provide a full response, as soon as I am
 reasonably able.
